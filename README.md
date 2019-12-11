@@ -1,5 +1,5 @@
 # Rossman-Store-Sales
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnla8J7TAsor24eM165uqowt-2ixVMBlILAe3s_0Ermc_T0d0J&s)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnla8J7TAsor24eM165uqowt-2ixVMBlILAe3s_0Ermc_T0d0J&s)
 ## Objective
 Sales is such an important thing for the store. Through deep analysis in sales, the store’s
 owner can evaluate the past sales and learn from it. Moreover, using regressor model to
